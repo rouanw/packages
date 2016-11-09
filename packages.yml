@@ -1,0 +1,39 @@
+---
+packages:
+- automake
+- rouanw/brewpack/brewpack
+- cdargs
+- homebrew/versions/gcc49
+- git
+- gnupg2
+- html2text
+- hugo
+- libtool
+- libyaml
+- postgresql
+- rsstail
+- vnstat
+casks:
+- 1password
+- alfred
+- android-file-transfer
+- atom
+- caffeine
+- docker
+- dropbox
+- eloquent
+- firefox
+- fluid
+- google-chrome
+- google-drive
+- hipchat
+- java
+- menucalendarclock-ical
+- mongochef
+- scroll-reverser
+- skype
+- spectacle
+- telegram
+- virtualbox
+- vlc
+- webstorm
