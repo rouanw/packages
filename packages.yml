@@ -1,16 +1,17 @@
 ---
 packages:
 - automake
-- rouanw/brewpack/brewpack
 - cdargs
-- homebrew/versions/gcc49
 - git
 - gnupg2
+- homebrew/versions/gcc49
 - html2text
 - hugo
+- jq
 - libtool
 - libyaml
 - postgresql
+- rouanw/brewpack/brewpack
 - rsstail
 - vnstat
 casks:
