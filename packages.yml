@@ -38,3 +38,6 @@ casks:
 - virtualbox
 - vlc
 - webstorm
+options:
+  update: false
+  analytics: false
