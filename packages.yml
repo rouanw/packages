@@ -4,6 +4,7 @@ packages:
 - cdargs
 - git
 - gnupg2
+- heroku-toolbelt
 - homebrew/versions/gcc49
 - html2text
 - hugo
