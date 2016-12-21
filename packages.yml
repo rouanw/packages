@@ -15,6 +15,7 @@ packages:
 - rouanw/brewpack/brewpack
 - rsstail
 - vnstat
+- yarn
 casks:
 - 1password
 - alfred
