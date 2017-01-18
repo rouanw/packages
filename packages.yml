@@ -38,6 +38,7 @@ casks:
 - spectacle
 - telegram
 - virtualbox
+- visual-studio-code
 - vlc
 - webstorm
 options:
