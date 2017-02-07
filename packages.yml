@@ -41,6 +41,7 @@ casks:
 - visual-studio-code
 - vlc
 - webstorm
+- zoomus
 options:
   update: false
   analytics: false
