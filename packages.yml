@@ -14,6 +14,7 @@ packages:
 - libyaml
 - postgresql
 - rouanw/brewpack/brewpack
+- rouanw/poem-of-the-day/poem-of-the-day
 - rsstail
 - vnstat
 - yarn
