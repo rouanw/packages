@@ -20,6 +20,7 @@ packages:
 - yarn
 casks:
 - 1password
+- adobe-acrobat-reader
 - alfred
 - android-file-transfer
 - atom
@@ -43,7 +44,6 @@ casks:
 - virtualbox
 - visual-studio-code
 - vlc
-- webstorm
 - zoomus
 options:
   update: false
