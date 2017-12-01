@@ -8,6 +8,7 @@ packages:
 - homebrew/science/vips
 - homebrew/versions/gcc49
 - html2text
+- httpie
 - hugo
 - jq
 - libtool
