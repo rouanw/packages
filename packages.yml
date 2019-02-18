@@ -2,6 +2,7 @@
 packages:
 - automake
 - cdargs
+- dotnet
 - git
 - gnupg2
 - heroku-toolbelt
