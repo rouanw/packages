@@ -1,25 +1,11 @@
 ---
 packages:
-- automake
 - cdargs
-- dotnet
 - git
-- gnupg2
-- heroku-toolbelt
-- homebrew/science/vips
-- homebrew/versions/gcc49
 - html2text
 - httpie
 - hugo
-- jq
-- libtool
-- libyaml
-- postgresql
 - rouanw/brewpack/brewpack
-- rouanw/poem-of-the-day/poem-of-the-day
-- rsstail
-- vnstat
-- yarn
 casks:
 - 1password
 - adobe-acrobat-reader
@@ -30,10 +16,9 @@ casks:
 - dropbox
 - eloquent
 - firefox
-- fluid
+- google-backup-and-sync
 - google-chrome
 - google-drive
-- java
 - pritunl
 - remembear
 - scroll-reverser
@@ -41,6 +26,7 @@ casks:
 - slack
 - spectacle
 - spotify
+- studio-3t
 - telegram
 - virtualbox
 - visual-studio-code
