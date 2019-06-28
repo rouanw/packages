@@ -26,3 +26,9 @@ Generated with [brewpack](https://github.com/rouanw/brewpack).
 - keyboard shortcuts - change move focus to next window
 - switch off audible terminal bell
 - disable spotlight `sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.metadata.mds.plist(http://recomhub.com/blog/how-to-disable-or-enable-spotlight-in-mac-os-x-yosemite-mavericks-mountain-lion/)
+- disable Apple tracking (Security and Privacy preferences -> Analytics, Advertising, Location)
+- disable "show recent applications in dock"
+
+## Node
+
+- Do not install node directly. Install nvm, then use it to install node
